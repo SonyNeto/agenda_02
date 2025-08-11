@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "João",
+        "number": "9987654321"
+    },
+    {
+        "id": 2,
+        "name": "Ana",
+        "number": "99564738291"
+    },
+    {
+        "id": 3,
+        "name": "José",
+        "number": "999887766"
+    },
+    {
+        "id": 4,
+        "name": "Maria",
+        "number": "9911223344"
+    },
+    {
+        "id": 5,
+        "name": "Bento",
+        "number": "9955663311"
+    },
+    {
+        "id": 6,
+        "name": "Augusto",
+        "number": "992938465"
+    },
+    {
+        "id": 7,
+        "name": "Tomás",
+        "number": "996533216"
+    },
+    {
+        "id": 8,
+        "name": "Cecília",
+        "number": "996533216"
+    }
+]
